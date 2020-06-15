@@ -1,4 +1,4 @@
-# laravel-ldap-example
+# laravel-ldap-auth
 
 Example project on how to authenticate an user in laravel using LDAP and without touching the database
 
